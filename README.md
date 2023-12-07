@@ -12,15 +12,10 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Programador 
+💻 Carrera realizada en Digital House
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **adriandanielfernandez@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -29,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mysql,sqlite,postgres,prisma,git,redis,react,vite,github,docker,materialui,postman,aws,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,mysql,sqlite,postgres,prisma,git,redis,react,vite,github,docker,materialui,postman,aws,vscode=12" />
   </a>
 </p>
 <br>
