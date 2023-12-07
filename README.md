@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hola 👋  soy Daniel Fernandez✨ </h1> 
 
 <p align="left">
@@ -13,6 +13,7 @@
 
 <p align="left">
 🎓 Programador 
+  
 💻 Carrera realizada en Digital House
 
 📫 Contacto: **adriandanielfernandez@gmail.com**
